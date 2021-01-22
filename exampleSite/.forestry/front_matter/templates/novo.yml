@@ -92,5 +92,14 @@ fields:
     - type: list
       name: experiences
       label: experiences
+- name: test
+  type: blocks
+  label: TEST
+  template_types:
+  - novo
+  config:
+    min: 
+    max: 
+  description: asdasdasdasdasd
 pages:
 - exampleSite/content/automati.md
