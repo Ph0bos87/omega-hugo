@@ -1,7 +1,7 @@
 +++
 description = ""
 draft = true
-layout = ""
+layout = "slkdjaskldjlkasjdklasjdklasjd"
 title = "Automati"
 [about]
 content = ""
