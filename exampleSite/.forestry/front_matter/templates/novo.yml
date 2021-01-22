@@ -92,3 +92,5 @@ fields:
     - type: list
       name: experiences
       label: experiences
+pages:
+- exampleSite/content/automati.md
