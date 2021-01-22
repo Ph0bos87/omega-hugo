@@ -25,7 +25,7 @@ name = "Contact"
 pre = "#"
 weight = 4
 [params]
-author = "Themefisher"
+author = "TemplateHub"
 contact_info = "1001 Brickell bay <br>Dr. Miami, <br>FL 33131"
 description = "This is meta description"
 logo = "images/logo.png"
